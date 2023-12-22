@@ -1,5 +1,6 @@
 {
 	"spider":"./pg.jar;md5;efb86a0831e4de3beac0045d23ecbd01",
+	"lives"[{"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 	"sites":[
 		{
 			"key": "酷狗",
