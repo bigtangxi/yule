@@ -41,6 +41,13 @@
 			"changeable": 1,
 			"ext": "./lib/douban.json"
 		},
+	        {
+                    "key": "18AV",
+                    "name": "18AV",
+                    "type": 3,"style":{ "type":"rect", "ratio":1.485 },
+                    "api": "csp_Eighteen",
+                  "searchable": 1
+                },
 		{
 			"key": "996影院",
 			"name": "996影院",
