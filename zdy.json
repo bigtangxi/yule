@@ -5,8 +5,8 @@
 "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
 "sites":[
 {
-			"key": "短劇",
-			"name": "短劇",
+			"key": "短剧",
+			"name": "短剧",
 			"type": 3,
 			"api": "csp_Duanju",
 			"searchable": 0,
