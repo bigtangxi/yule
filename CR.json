@@ -1,5 +1,10 @@
 {
   "sites": [
+    {
+                "key": "18av",
+                "name": "®️仙女",
+                "type": 3,
+                "api": "./js/18av_open.js"
    {
       "key": "本地",
       "name": "❤本地",
