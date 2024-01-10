@@ -1,47 +1,7 @@
 {
 	"spider":"./pg.jar",
 	"sites":[
-		{
-			"key": "酷狗",
-			"name": "酷狗",
-			"type": 3,
-			"api": "csp_Kugou",
-			"searchable": 1,
-			"changeable": 0
-		},
-		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
-		{"key":"PikPakShare","name":"PikPak分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":0, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz"},
-		{
-			"key": "网盘配置",
-			"name": "网盘及彈幕配置",
-			"type": 3,
-			"api": "csp_Config",
-			"searchable": 0,
-			"changeable": 0,
-			"style": {
-				"type": "rect",
-				"ratio": 1
-			},
-			"ext":"./lib/tokenm.json"
-		},
-		{
-			"key": "直播转点播",
-			"name": "🐼️┃电视┃直播",
-			"type": 3,
-			"searchable": 0,
-			"api": "./lib/live2vod.js",
-			"ext": "./lib/feimaolive.json"
-		},
-		{
-			"key": "豆瓣",
-			"name": "豆瓣",
-			"type": 3,
-			"api": "csp_Douban",
-			"searchable": 0,
-			"changeable": 1,
-			"ext": "./lib/douban.json"
-		},
-		{"key":"csp_JavDb","name":"🧲JavDb","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://qu.ax/QPQT.jpg"},
+    {"key":"csp_JavDb","name":"🧲JavDb","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://qu.ax/QPQT.jpg"},
     {"key":"MV_vod","name":"👀┃19┃视频","type":1,"style":{"type":"rect","ratio":1.485},"api":"https://sousu.popefih902.repl.co/vod/19","searchable":1,"quickSearch":1,"filterable":1},
     { "key": "18A貓", "name": "18A貓", "type": 3,"style":{ "type":"rect", "ratio":1.485 }, "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/18a_open.js", "searchable": 1 },
     {"key":"tianmi","name":"甜蜜资源","type":1,"style":{"type":"rect","ratio":1.485},"api":"https://timizy10.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
