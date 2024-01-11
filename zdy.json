@@ -1,16 +1,9 @@
 {
 "spider":"./pg.jar;md5;669701e99fc5bb8518c3ebaa37ec2d6d",
-"lives":[{
-            "name": "半路捡来的",
-            "type": 0,
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
-	    "playerType":1
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo":"https://epg.112114.xyz/logo/{name}.png"
+"lives":[{"name": "半路捡来的","type": 0,"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","playerType":1,"epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"
         },
 	{"name":"Ray•综合","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-	{"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"范明","type":0,"url":"https://hub.gitmirror.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+	{"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
 "sites":[
 	{
