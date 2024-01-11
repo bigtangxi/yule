@@ -22,7 +22,8 @@
             "url":"https://hub.gitmirror.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u",
             "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
-		 {
+	},
+        {
             "name": "BESTV",
             "type": 0,
             "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u",
