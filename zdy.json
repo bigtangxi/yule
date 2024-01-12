@@ -1,7 +1,7 @@
 {
 "spider":"./pg.jar;md5;669701e99fc5bb8518c3ebaa37ec2d6d",
 "lives":[{"name":"随缘看","type":0,"url":"http://www.mhq10086.work.gd/upload/tv/3v谷.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-	{"name":"道长","type":0,"url":"http://111.67.196.181/zhibo.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+	{"name":"四千加","type":0,"url":"https://qu.ax/kBip.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 	{"name":"罗汉果","type":0,"url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/0903zh.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 	{"name":"BESTV","type":0,"url":"https://hub.gitmirror.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 	{"name": "半路捡来的","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
