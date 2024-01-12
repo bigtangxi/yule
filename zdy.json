@@ -1,7 +1,7 @@
 {
 "spider":"./pg.jar;md5;669701e99fc5bb8518c3ebaa37ec2d6d",
 "lives":[{"name":"四千加","type":0,"url":"https://qu.ax/kBip.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-	{"name":"捡来的","type":0,"url":"https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+	{"name":"捡来的","type":0,"url":"https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 	{"name":"AK47","type":0,"url":"https://qu.ax/HtMB.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 	{"name":"主流","type":0,"url":"https://m3u.ibert.me/txt/o_s_cn.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 	{"name":"罗汉果","type":0,"url":"https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/0903zh.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
