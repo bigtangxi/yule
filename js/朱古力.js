@@ -14,3 +14,4 @@ var rule = {
     一级:'.l-post div&&a;a&&title;span&&data-bgsrc;.absolute.bottom-1&&Text;a&&href',
     二级:'*',
 }
+
