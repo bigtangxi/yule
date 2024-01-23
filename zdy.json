@@ -1,5 +1,5 @@
 {
-"spider":"./pg.jar;md5;49968288ac024259d344f738e5178f52",
+"spider":"./fm.jar;md5;104fe5b844fc2bf63f2082c5a9b8b4aa",
 "lives":[{"name":"四千加","type":0,"url":"https://qu.ax/kBip.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 	{"name":"AK47","type":0,"url":"https://qu.ax/HtMB.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 	{"name":"主流","type":0,"url":"https://m3u.ibert.me/txt/o_s_cn.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
