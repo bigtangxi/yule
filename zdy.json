@@ -1,5 +1,5 @@
 {
-"spider":"./fm.jar;md5;145b12c8a9a89fcc35c0494c905f2f96",
+"spider":"./fm.jar;md5;385aa0f0d636f7fb52341543507692e2",
 "lives":[{"name":"四千加","type":0,"url":"https://qu.ax/kBip.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 	{"name":"AK47","type":0,"url":"https://qu.ax/HtMB.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 	{"name":"主流","type":0,"url":"https://m3u.ibert.me/txt/o_s_cn.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -9,15 +9,6 @@
 	{"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
 "sites":[
-	{
-			"key": "豆瓣",
-			"name": "豆瓣",
-			"type": 3,
-			"api": "csp_Douban",
-			"searchable": 0,
-			"changeable": 1,
-			"ext": "./lib/douban.json"
-		},
 {
     "key": "996影院1",
     "name": "996影院",
